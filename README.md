@@ -1,7 +1,7 @@
 # INTRODUCTION
 In this project, I worked with two dataset. Primarily, I cleaned the data using the janitor package. I also used the lubridate package to change data types and create new columns. Secondly, I used basic to advanced functions that I have used in previous projects for data pre-processing, data cleaning, and analysis, such as glimpse and filter. I created multiple data frames and visualizations based on the book dataset, including box plots, scatter plots, and Pareto charts. This was a valuable learning experience in data analysis.
 ## KEY-FINDINGS
-##Part-1: - Data Cleaning
+## Part-1: - Data Cleaning
 ### 1.Problem 2 &3: -
 In this code, Loaded the lubridate package, in which used the 'mdy' and 'year' functions. The lubridate package is used for data type conversion to dates and the creation of new columns individually, such as month, date, or year.
 ## Part-2: - Data Analysis
@@ -69,8 +69,10 @@ In conclusion, this project has been helpful for my journey of learning in the d
 ## CITATIONS
 1.Error in spec : (df) : inherits(x,"tbl_df") is not true. (n.d.). Stack Overflow
 https://stackoverflow.com/questions/72695516/error-in-spec-df-inheritsx-tbl-df-is-not-true
+
 2. Using Lubridate in R Studio to create year, month, day columns gives unexpected results. (n.d.). Stack Overflow
 https://stackoverflow.com/questions/50965929/using-lubridate-in-r-studio-to-create-year-month-daycolumns-gives-unexpected
+
 3. GeeksforGeeks. (2023). R Pareto chart. GeeksforGeeks
 https://www.geeksforgeeks.org/r-pareto-chart/
 
