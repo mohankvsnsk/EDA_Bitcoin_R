@@ -68,12 +68,15 @@ In conclusion, this project has been helpful for my journey of learning in the d
 > testthat::test_file("project3_tests.R") [ FAIL 0 | WARN 0 | SKIP 0 | PASS 14]
 ## CITATIONS
 1.Error in spec : (df) : inherits(x,"tbl_df") is not true. (n.d.). Stack Overflow
+
 https://stackoverflow.com/questions/72695516/error-in-spec-df-inheritsx-tbl-df-is-not-true
 
 2. Using Lubridate in R Studio to create year, month, day columns gives unexpected results. (n.d.). Stack Overflow
+
 https://stackoverflow.com/questions/50965929/using-lubridate-in-r-studio-to-create-year-month-daycolumns-gives-unexpected
 
 3. GeeksforGeeks. (2023). R Pareto chart. GeeksforGeeks
+
 https://www.geeksforgeeks.org/r-pareto-chart/
 
 ---
